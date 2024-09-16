@@ -2,6 +2,7 @@ package selenium;
 
 public class introduction {
 	
-	//WebDriver driver = new ChromeDriver();
+	System.setProperty(webDriver.chrome.driver,"c//work//chromedriver.exe");
+    webDriver driver = new chromedriver();
 
 }
